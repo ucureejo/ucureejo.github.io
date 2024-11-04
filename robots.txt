@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucureejo.github.io/IhZ/sitemap_index.txt
+Sitemap: https://ucureejo.github.io/XYq/sitemap_index.txt
+Sitemap: https://ucureejo.github.io/hQK/sitemap_index.txt
+Sitemap: https://ucureejo.github.io/xLS/sitemap_index.txt
